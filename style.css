@@ -1,0 +1,23 @@
+/*Author: God Bennett */
+/* Desktops and laptops ----------- */
+@font-face 
+{
+	font-family : Segoe;
+	src : url(data/fonts/segoe.ttf);
+}
+.MediumSegoeFontFace
+{	
+	font-family : Segoe;
+	font-size :14px;
+}
+.LargeSegoeFontFace
+{	
+	font-family : Segoe;
+	font-size :34px;
+	color:#000;
+}
+
+.testclass
+{	
+	background-color :blue;
+}
