@@ -40,7 +40,7 @@ $(document).ready(function()
 	swal
 	(
 		{
-				title: "",text: "Welcome to iCognium Neuroverse -Jamaica's 1st known artificial intelligence education platform with tangible full scale car/self driving ecosystem.</br></br> G.Quest Bennett and Heather Quest", imageUrl: 'data/images/logoSmall.png', html: true, showCancelButton: false,
+				title: "",text: "Welcome to iCognium Neuroverse -Jamaica's 1st known artificial intelligence education platform with tangible full scale car/self driving ecosystem and more.</br></br> G.Quest Bennett and Heather Quest", imageUrl: 'data/images/logoSmall.png', html: true, showCancelButton: false,
 				confirmButtonColor: "#fff",
 				confirmButtonText: 'Go!',
 				cancelButtonText: "",
