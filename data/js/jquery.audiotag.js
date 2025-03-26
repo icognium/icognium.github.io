@@ -1,4 +1,4 @@
-//written by God Bennett
+//written by Cosmos Bennett
 
 
 var musicTitles = 
@@ -40,7 +40,7 @@ $(document).ready(function()
 	swal
 	(
 		{
-				title: "",text: "Welcome to iCognium Neuroverse -Jamaica's 1st known artificial intelligence education platform with tangible full scale car/self driving ecosystem and more.</br></br> We want to help foster the manufacturing of both embedded Ai (software) and niche/local Ai-imbued embodied ai (hardware) and beyond. </br></br> G.Quest Bennett and Heather Quest", imageUrl: 'data/images/logoSmall.png', html: true, showCancelButton: false,
+				title: "",text: "Welcome to iCognium Neuroverse -Jamaica's 1st known artificial intelligence education platform with tangible full scale car/self driving ecosystem and more.</br></br> We want to help foster the manufacturing of both embedded Ai (software) and niche/local Ai-imbued embodied ai (hardware) and beyond. </br></br> Cosmos Bennett and Heather Quest Bennett", imageUrl: 'data/images/logoSmall.png', html: true, showCancelButton: false,
 				confirmButtonColor: "#fff",
 				confirmButtonText: 'Go!',
 				cancelButtonText: "",
